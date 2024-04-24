@@ -1,0 +1,9 @@
+The steps to install and launch Evon Executor:
+
+1. Download the Evon archive file.
+2. Extract its contents somewhere on your PC.
+3. Within the extracted folder, find the "Launcher" file.
+4. Double-click or execute the "Launcher" file to initiate the installation process.
+5. Follow on-screen prompts to complete the installation.
+
+Once the installation is complete, you can now enjoy playing with Evon!
