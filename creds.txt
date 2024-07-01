@@ -7,3 +7,8 @@ The steps to install and launch Evon Executor:
 5. Follow on-screen prompts to complete the installation.
 
 Once the installation is complete, you can now enjoy playing with Evon!
+<<<<<<< HEAD
+=======
+New entry at Mon Jul  1 20:59:48 2024
+>>>>>>> ed6c944 (update)
+New entry at Mon Jul  1 21:13:40 2024
